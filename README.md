@@ -15,7 +15,7 @@ Eine simple Webseite, die es erlaubt, ein stillprotokoll zu führen (auch als mo
 - [ ] Button "Windel(Nass)"
 - [ ] Button "Windel(Beides)"
 - [ ] Page "Letzte Stillzeit"
-- [ ] Login
+- [ ] Login (use mybodydata)
 
 ### 2 (Beta) YYYY-MM-DD:
 
@@ -25,11 +25,13 @@ Eine simple Webseite, die es erlaubt, ein stillprotokoll zu führen (auch als mo
 - [ ] Page "babydata" (weight, size, temperature)
 - [ ] Basic Rest (Get)
 - [ ] Logo and final design
+- [ ] implement analytics
+- [ ] implement clickheat
 
 ### 3 (Release) YYYY-MM-DD:
 
 - [ ] REST (PUT)
 - [ ] Switch Buttons for grafics if better
 - [ ] App-Manifest
-- [ ] Offline: Write to appcache
-- [ ] Online: Sync to Server
+- [ ] Offline: Write to WebStorage
+- [ ] Online: Event "Online" to Sync to Server
