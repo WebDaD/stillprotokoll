@@ -22,7 +22,7 @@ Eine simple Webseite, die es erlaubt, ein stillprotokoll zu führen (auch als mo
 - [ ] Page "Stillen" (Buttons: Start(Links), Start(rechts), Stop(Links, Stop(rechts) )
 - [ ] Page "Statistiken"
 - [ ] Database "Should-be"-Values
-- [ ] Page "babydata" (weight, size)
+- [ ] Page "babydata" (weight, size, temperature)
 - [ ] Basic Rest (Get)
 - [ ] Logo and final design
 
